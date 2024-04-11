@@ -22,7 +22,7 @@ Agility - Larger firms have more bureaucratic processes, slowing down their resp
 <a href="https://www.linkedin.com/company/infosec-k2k/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Ezhil Priyadharshini" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Specialist In:</h3>
 <p align="left">  
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -33,3 +33,4 @@ Agility - Larger firms have more bureaucratic processes, slowing down their resp
 </p>
 
 ### Looking Forward ✨
+To discuss about the service which we can offer to improve your product.
