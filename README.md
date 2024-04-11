@@ -17,7 +17,7 @@ Agility - Larger firms have more bureaucratic processes, slowing down their resp
 
 ### Achievements 🔭
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with Us:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/company/infosec-k2k/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Ezhil Priyadharshini" height="30" width="40" /></a>
 </p>
